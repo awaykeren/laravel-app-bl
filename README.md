@@ -9,7 +9,7 @@ Sebelum menjalankan proyek ini, pastikan sistem Anda telah menginstal:
 ##1. Clone Repository
 Clone repository ini dari GitHub ke dalam folder lokal Anda:
 - git clone https://github.com/awaykeren/laravel-app-bl.git
-- cd repository-name
+- cd laravel-app-bl
 
 
 ## 2. Instal Dependensi
